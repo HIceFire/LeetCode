@@ -18,7 +18,7 @@
  */
 
 // my solution
-const twoSum = function(nums, target) {
+var twoSum = function(nums, target) {
   for (let i = 0; i < nums.length; i++) {
     let another = target - nums[i]
     let anotherIndex = -1
@@ -35,7 +35,7 @@ const twoSum = function(nums, target) {
 }
 
 // better solution
-const betterTwoSum = function(nums, target) {
+var betterTwoSum = function(nums, target) {
   let map = {},
     result = []
   for (let i = 0; i < nums.length; i++) {
