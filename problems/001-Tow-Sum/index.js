@@ -22,12 +22,14 @@ var twoSum = function(nums, target) {
   for (let i = 0; i < nums.length; i++) {
     let another = target - nums[i]
     let anotherIndex = -1
+
     inner : for (let j = i + 1; j < nums.length; j++) {
       if (nums[j] === another) {
         anotherIndex = j
         break inner
       }
     }
+
     if (anotherIndex !== -1 && i !== anotherIndex) {
       return [i, anotherIndex]
     }
