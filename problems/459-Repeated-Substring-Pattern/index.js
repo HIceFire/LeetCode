@@ -52,7 +52,14 @@ var repeatedSubstringPattern = function(s) {
   return false
 }
 
-// better solution
+/**
+ * better solution
+ *
+ * 假设最小不可拆分字符串为 a，当前字符串str == a * n
+ * if (n 大于等于 2) {
+ *   a * 2n - a * 2 === a * (2n - 2) 必然大于等于 a
+ * }
+ */
 var repeatedSubstringPattern = function(s) {
   return (s + s).slice(1, s.length * 2 - 1).includes(s)
 }
