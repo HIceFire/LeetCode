@@ -11,3 +11,4 @@ My LeetCode solutions with JavaScript
 |169|[Majority Element](https://leetcode.com/problems/majority-element/description/)|Majority Vote Alogrithm (最大投票数算法)|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|重复子字符串模式判断|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/)|数组操作的时间复杂度比较|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|反转二叉树|
