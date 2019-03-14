@@ -12,6 +12,7 @@ My LeetCode solutions with JavaScript
 |124|[Binary Tree Maximum Path Sum]|二叉树最大路径和|
 |136|[Single Number]|x ^ x = 0|
 |169|[Majority Element]|Majority Vote Algorithm (最大投票数算法)|
+|240|[Search a 2D Matrix II]|检索二阶矩阵|
 |189|[Rotate Array]|数组操作的时间复杂度比较|
 |226|[Invert Binary Tree]|反转二叉树|
 |459|[Repeated Substring Pattern]|重复子字符串模式判断|
@@ -28,3 +29,4 @@ My LeetCode solutions with JavaScript
 [Invert Binary Tree]: https://github.com/vq0599/LeetCode/blob/master/problems/226-Invert-Binary-Tree/index.js
 [Repeated Substring Pattern]: https://github.com/vq0599/LeetCode/blob/master/problems/459-Repeated-Substring-Pattern/index.js
 [Integer-Replacement]: https://github.com/vq0599/LeetCode/blob/master/problems/397-Integer-Replacement/index.js
+[Search a 2D Matrix II]: https://github.com/vq0599/LeetCode/blob/master/problems/240-Search-A-2D-Matrix-II/index.js
