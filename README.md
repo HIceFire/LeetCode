@@ -8,6 +8,7 @@ My LeetCode solutions with JavaScript
 |:---:|:---:|:---:|
 |007|[Reverse Integer]|反转整数|
 |053|[Maximum Subarray]|Kadane's Algorithm (卡登算法)|
+|088|[Merge Sorted Array]|合并有序数组|
 |118|[Pascal's Triangle]|Pascal's Triangle (杨辉三角)|
 |124|[Binary Tree Maximum Path Sum]|二叉树最大路径和|
 |136|[Single Number]|x ^ x = 0|
@@ -16,7 +17,7 @@ My LeetCode solutions with JavaScript
 |189|[Rotate Array]|数组操作的时间复杂度比较|
 |226|[Invert Binary Tree]|反转二叉树|
 |459|[Repeated Substring Pattern]|重复子字符串模式判断|
-|397|[Integer-Replacement]|整数替换最小步骤数|
+|397|[Integer Replacement]|整数替换最小步骤数|
 
 
 [Reverse Integer]: https://github.com/vq0599/LeetCode/blob/master/problems/007-Reverse-Integer/index.js
@@ -28,5 +29,6 @@ My LeetCode solutions with JavaScript
 [Rotate Array]: https://github.com/vq0599/LeetCode/blob/master/problems/189-Rotate-Array/index.js
 [Invert Binary Tree]: https://github.com/vq0599/LeetCode/blob/master/problems/226-Invert-Binary-Tree/index.js
 [Repeated Substring Pattern]: https://github.com/vq0599/LeetCode/blob/master/problems/459-Repeated-Substring-Pattern/index.js
-[Integer-Replacement]: https://github.com/vq0599/LeetCode/blob/master/problems/397-Integer-Replacement/index.js
+[Integer Replacement]: https://github.com/vq0599/LeetCode/blob/master/problems/397-Integer-Replacement/index.js
 [Search a 2D Matrix II]: https://github.com/vq0599/LeetCode/blob/master/problems/240-Search-A-2D-Matrix-II/index.js
+[Merge Sorted Array]: https://github.com/vq0599/LeetCode/blob/master/problems/088-Merge-Sorted-Array/index.js
