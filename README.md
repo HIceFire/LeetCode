@@ -15,6 +15,7 @@ My LeetCode solutions with JavaScript
 |169|[Majority Element]|Majority Vote Algorithm (最大投票数算法)|
 |240|[Search a 2D Matrix II]|检索二阶矩阵|
 |189|[Rotate Array]|数组操作的时间复杂度比较|
+|206|[Reverse Linked List]|反转单向链表|
 |226|[Invert Binary Tree]|反转二叉树|
 |459|[Repeated Substring Pattern]|重复子字符串模式判断|
 |397|[Integer Replacement]|整数替换最小步骤数|
@@ -32,3 +33,4 @@ My LeetCode solutions with JavaScript
 [Integer Replacement]: https://github.com/vq0599/LeetCode/blob/master/problems/397-Integer-Replacement/index.js
 [Search a 2D Matrix II]: https://github.com/vq0599/LeetCode/blob/master/problems/240-Search-A-2D-Matrix-II/index.js
 [Merge Sorted Array]: https://github.com/vq0599/LeetCode/blob/master/problems/088-Merge-Sorted-Array/index.js
+[Reverse Linked List]: https://github.com/vq0599/LeetCode/blob/master/problems/206-Reverse-Linked-List/index.js
